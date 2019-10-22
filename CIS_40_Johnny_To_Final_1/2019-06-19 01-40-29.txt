@@ -1,0 +1,17 @@
+==================================================
+DE ANZA BURGER CLUB RECEIPT
+--------------------------------------------------
+CUSTOMER TYPE: STUDENT
+--------------------------------------------------
+ITEM(S) PURCHASED
+NAME              AMMNT            PRICE   CHARGED
+--------------------------------------------------
+1.De Anza Burger  1                $5.25    $5.25
+2.Bacon Cheese    1                $5.75    $5.75
+3.Mushroom Swiss  1                $5.95    $5.95
+4.Western Burger  1                $5.95    $5.95
+5.Don Cali Burger 1                $5.95    $5.95
+==================================================
+SUBTOTAL:                                   $28.85
+TAX PERCENT:                                %0
+TOTAL:                                      $28.85
