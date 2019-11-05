@@ -1,3 +1,9 @@
+'''
+Johnny To
+CIS 41A Fall 2019
+Unit E take-home assignment
+'''
+
 #Part One – Keyword Arguments and Default Values
 
 #Write an invoice function.
